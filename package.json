@@ -1,0 +1,19 @@
+{
+  "name": "Satganz-Devs",
+  "version": "1.0.0",
+  "description": "Perkembangan Bisnis Yang Baru Saja Di mulai.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "SatganzDevs",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.1",
+    "telegraf": "v4.15.0",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "^4.11.5"
+  }
+}
