@@ -186,6 +186,6 @@ res.send('Hellow World!')
 });
 // starting the server
 app.listen(3000, () => {
-  bot.launch();
   console.log(`Bot IS Connected!`);
 });
+bot.launch();
